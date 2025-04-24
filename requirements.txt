@@ -4,6 +4,9 @@ matplotlib
 accelerate==1.0.1
 scikit-learn==1.5.2
 datasets==3.0.1
-transformers==4.29.2
+transformers==4.37.2
 torch==1.13.1
 ipywidgets
+peft==0.8.2
+sentencepiece
+
